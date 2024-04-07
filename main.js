@@ -11,7 +11,7 @@ function createWindow () {
   });
 
   // and load the index.html of the app.
-  mainWindow.loadURL('https://example.com'); // Change this URL to the webpage you want to display
+  mainWindow.loadURL('https://e621.net'); // Change this URL to the webpage you want to display
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools();
